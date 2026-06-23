@@ -1,5 +1,3 @@
-# Hi there  I'm Emmanuel Muuo
-
 ### Full-Stack Software Engineer | Mobile Developer | System Analyst | Healthcare & Fintech Solutions Developer | DevOps & AI Enthusiast
 
 ![GitHub followers](https://img.shields.io/github/followers/Antoh3?style=social)
