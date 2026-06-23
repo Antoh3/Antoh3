@@ -7,7 +7,7 @@
 
 ## 🚀 About Me
 
-Results-driven **Full-Stack Software Engineer and System Analyst** with **3+ years of experience** designing, developing, and supporting enterprise-grade web, mobile, and healthcare applications.
+Results-driven **Full-Stack Software Engineer and System Analyst** with **2+ years of experience** designing, developing, and supporting enterprise-grade web, mobile, and healthcare applications.
 
 I specialize in building scalable systems across **Healthcare, Fintech, ERP, and Enterprise Operations**, combining expertise in **software engineering, system analysis, payment integrations, DevOps, and AI-powered applications**.
 
