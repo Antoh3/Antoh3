@@ -1,6 +1,6 @@
 ### Full-Stack Software Engineer | Mobile Developer | System Analyst | Healthcare & Fintech Solutions Developer | DevOps & AI Enthusiast
 
-Full-stack software engineer with over 3 years of experience designing, developing, supporting, and maintaining enterprise applications across healthcare, fintech, ERP, and business management systems. Experienced in system analysis, payment integrations, healthcare technology, AI-powered applications, DevOps automation, and L2/L3 technical support.
+Full-stack software engineer with over 2+ years of experience designing, developing, supporting, and maintaining enterprise applications across healthcare, fintech, ERP, and business management systems. Experienced in system analysis, payment integrations, healthcare technology, AI-powered applications, DevOps automation, and L2/L3 technical support.
 
 ### Software Development
 
